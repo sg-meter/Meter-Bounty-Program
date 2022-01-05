@@ -6,6 +6,9 @@
 ## Context
 [Provide a background on the bounty issue]
 
+## Reference (Optional)
+[Provide a reference to the bounty hunter where available]
+
 ## Acceptance Criteria
 * [ ] [Criteria that need to be fulfilled to mark the bounty closed]
 * [ ] [Quantifiable Criteria are preferred]
